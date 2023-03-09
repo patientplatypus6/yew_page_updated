@@ -1,0 +1,10 @@
+/Users/peterweyand/Code/rustprojects/yew_page/target/debug/deps/yew_style_in_rs_core-1de2dac1e78ab71a.rmeta: /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/lib.rs /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/ast.rs /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/cursor.rs /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/transpiler.rs
+
+/Users/peterweyand/Code/rustprojects/yew_page/target/debug/deps/libyew_style_in_rs_core-1de2dac1e78ab71a.rlib: /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/lib.rs /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/ast.rs /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/cursor.rs /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/transpiler.rs
+
+/Users/peterweyand/Code/rustprojects/yew_page/target/debug/deps/yew_style_in_rs_core-1de2dac1e78ab71a.d: /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/lib.rs /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/ast.rs /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/cursor.rs /Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/transpiler.rs
+
+/Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/lib.rs:
+/Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/ast.rs:
+/Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/cursor.rs:
+/Users/peterweyand/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-style-in-rs-core-0.4.1/src/transpiler.rs:
